@@ -90,8 +90,4 @@ function checkForRequiredQueryParam(receivedParams, expectedParam) {
   }
 }
 
-var server = app.listen(8081, function () {
-  var host = server.address().address;
-  var port = server.address().port;
-  console.log("App listening at http://%s:%s", host, port);
-});
+app.listen(PORT, () => console.log(`Rhakotis Server up at PORT:${PORT}`));
