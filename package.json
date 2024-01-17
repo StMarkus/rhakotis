@@ -11,6 +11,9 @@
   "keywords": [
     "coptic"
   ],
+  "scripts": {
+    "start": "node app.js"
+  },
   "author": "Martin Mitry <martin.mitry@kopten.de>",
   "license": "ISC",
   "bugs": {
