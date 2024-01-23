@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/StMarkus/rhakotis#readme",
   "dependencies": {
-    "@stmarkus/coptic-font-unicode-converter": "^1.1.0",
+    "@stmarkus/coptic-font-unicode-converter": "^1.1.3",
     "express": "^4.18.2"
   }
 }
