@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/StMarkus/rhakotis#readme",
   "dependencies": {
-    "@stmarkus/coptic-font-unicode-converter": "file:../coptic-font-unicode-converter"
+    "@stmarkus/coptic-font-unicode-converter": "^2.0.0"
   },
   "devDependencies": {
     "wrangler": "^4.0.0"
